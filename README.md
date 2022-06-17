@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>𝚜𝚛𝚜</h1>
+  <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
   <img width="33%" src="./assets/brand/icon-tight-12x.png"/>
 </div>
 
