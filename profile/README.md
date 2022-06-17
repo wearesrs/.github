@@ -3,7 +3,7 @@
   <br/>
   <hr/>
   <br/>
-  <img height="40%" width="100%" src="assets/brand/cover.png"/>
+  <img style="width:100%;height:15%" src="assets/brand/cover.png"/>
   <br/>
   <hr/>
   <br/>
