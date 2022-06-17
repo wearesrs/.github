@@ -1,17 +1,17 @@
 <div align='center'>
-  <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
-  <br/>
   <hr/>
   <br/>
   <img width="150%" src="assets/brand/cover-short.png"/>
   <br/>
   <hr/>
+  <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
   <br/>
-  
+  <hr/>
+  <br/>
   <img width="33%" src="assets/brand/icon-tight-12x.png"/>
+  <br/>
+  <hr/>
 </div>
-
----
 
 > ***`we are srs.`***
 
