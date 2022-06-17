@@ -1,5 +1,10 @@
 <div align='center'>
+  <img width="100vw" src="assets/brand/cover.png"/>
+  <hr/>
+  <br/>
   <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
+  <br/>
+  <hr/>
   <img width="33%" src="assets/brand/icon-tight-12x.png"/>
 </div>
 
