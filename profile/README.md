@@ -1,7 +1,5 @@
 <div align='center'>
-  <hr/>
-  <br/>
-  <img width="150%" src="assets/brand/cover-short.png"/>
+  <img src="assets/brand/cover-short.png"/>
   <br/>
   <hr/>
   <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
