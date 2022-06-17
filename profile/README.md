@@ -1,10 +1,13 @@
 <div align='center'>
-  <img height="40%" width="100%" src="assets/brand/cover.png"/>
-  <hr/>
-  <br/>
   <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
   <br/>
   <hr/>
+  <br/>
+  <img height="40%" width="100%" src="assets/brand/cover.png"/>
+  <br/>
+  <hr/>
+  <br/>
+  
   <img width="33%" src="assets/brand/icon-tight-12x.png"/>
 </div>
 
