@@ -1,5 +1,5 @@
 <div align='center'>
-  <img width="100%" src="assets/brand/cover.png"/>
+  <img height="40%" width="100%" src="assets/brand/cover.png"/>
   <hr/>
   <br/>
   <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
