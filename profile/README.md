@@ -16,6 +16,6 @@
 ---
 
 <div align='center'>
-  <h1><i><b>𝚜 𝚛 𝚜</b></i></h1>
+  <h4><i><b>𝚜 𝚛 𝚜</b></i></h4>
   <img width="8%" src="assets/brand/icon-tight.png"/>
 </div>
